@@ -6,15 +6,19 @@ This analysis uses supervised machine learning techniques that train and test a 
 
 ### Machine Learning Model 1:
    Precision: 92%
+   
    Accuracy: 95%
+   
    Recall: 94%
 
 
 ### Machine Learning Model 2:
    Precision: 99%
+   
    Accuracy: 99%
+   
    Recall: 99%
    
-##Summary
+## Summary
 
 Model 2 is more balanced than the first. It's predictions have more accuracy in predicting true positives and negatives. The data in the model must be balanced between negative and positive data points in order to accurately determine which loans are more likely to be repaid. 
